@@ -45,7 +45,9 @@ public class GuessNumber {
             }
 
 
-        }
 
+        }
+         if(count==10)
+             System.out.println(" you loose...................");
     }
 }
