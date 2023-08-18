@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class gjg {
+public class task3 {
 
 
 
@@ -183,7 +183,7 @@ public class gjg {
             int i=0;
 
             /*** Callining Mainmenu Class function ****/
-            gjg obj1 = new gjg();
+            task3 obj1 = new task3();
             obj1.menu();
 
             /*** Initialising loop for Menu Choices ***/
